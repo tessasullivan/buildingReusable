@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Building Re-usable Components with Mosh';
+
+  post = {
+    title: "Title",
+    isFavorite: true
+  }
+
+  onFavoriteChanged() {
+    console.log('Favorite Changed');
+  }
 }

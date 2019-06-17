@@ -1,27 +1,33 @@
-# BuildingReusable
+# Building Reusable
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+#### By Tessa Sullivan
 
-## Development server
+## Description
+This includes both the code used in Mosh Hamedani's Angular course as well as the exercises.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Setup/Installation Requirements
+1. Clone this repository.
+2. ```cd buildingReusable```.
+3. ```npm install```
+4. ```ng serve -o```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This will open a browser window and display the examples.
 
-## Build
+## Known Issues
+* None known at this time.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Technologies Used
 
-## Running unit tests
+* Angular
+* HTML5 / CSS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Support and contact details
 
-## Running end-to-end tests
+_Contact Tessa Sullivan @ tessa.sullivan@gmail.com_
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### License
 
-## Further help
+*{This software is licensed under the MIT license}*
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Copyright (c) 2019 **_Tessa Sullivan_**
